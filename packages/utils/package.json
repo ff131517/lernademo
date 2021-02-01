@@ -1,5 +1,5 @@
 {
-  "name": "utils",
+  "name": "mic-demo-utils",
   "version": "1.0.1",
   "description": "> TODO: description",
   "author": "fangtong.ft <fangtong.ft@alibaba-inc.com>",
@@ -18,5 +18,6 @@
   },
   "devDependencies": {
     "eslint": "^7.19.0"
-  }
+  },
+  "gitHead": "e2e8b1fe351f2689a47d3465cf43fdc38c4f2e69"
 }
